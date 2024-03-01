@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class GestionStock extends JFrame{
+public class GestionStockAdmin extends JFrame{
     private JPanel panel1;
     private JTabbedPane tabbedPane1;
     private JButton buscarButton;
@@ -17,7 +17,7 @@ public class GestionStock extends JFrame{
     private JTextField textField4;
     private JButton volverAlMenúButton;
 
-    public GestionStock(){
+    public GestionStockAdmin(){
         super("Gestión del Stock de los Productos");
         volverAlMenúButton.addActionListener(new ActionListener() {
             @Override

@@ -14,7 +14,7 @@ public class MenuOpcionesAdmin extends JFrame{
         gestiónDeStockButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                GestionStock ventana = new GestionStock();
+                GestionStockAdmin ventana = new GestionStockAdmin();
                 ventana.IniciarTransaccion();
                 dispose();
             }

@@ -4,14 +4,15 @@ import java.awt.event.ActionListener;
 
 public class HistorialTransaccionAdmin extends JFrame{
     private JPanel panel1;
+    private JButton regresarAlMenúButton;
     private JTextField textField1;
     private JButton IDTransacciónButton;
-    private JTable table1;
     private JButton IDCajeroButton;
     private JButton nombreCajeroButton;
     private JButton fechaTransacciónButton;
-    private JButton regresarAlMenúButton;
     private JButton productoButton;
+    private JButton imprimirButton;
+    private JTable table1;
 
     public HistorialTransaccionAdmin() {
         super("Historial de Transacciones");
