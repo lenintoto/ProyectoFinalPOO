@@ -19,4 +19,4 @@ Desarrollar un sistema integral de gestión de ventas y control de stock para un
   - Historial de transacciones
   - Cerrar sesión
 
-##Esto es la primera parte del proyecto y consta de la interfaz gráfica que mas adelante se clonó y se agregaron las funcionalidades respectivas
+-Esto es la primera parte del proyecto y consta de la interfaz gráfica que mas adelante se clonó y se agregaron las funcionalidades respectivas visibles en la rama master
